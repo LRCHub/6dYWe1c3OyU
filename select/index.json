@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "I Will Survive",
+  "base_artist": "Gloria Gaynor",
+  "createdAt": "2026-02-08T05:09:36.312084Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Will Survive",
+      "artist": "Lonnie Gordon",
+      "has_synced": false,
+      "path": "select/01_I_Will_Survive_Lonnie_Gordon.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Will Survive",
+      "artist": "Cake",
+      "has_synced": true,
+      "path": "select/02_I_Will_Survive_Cake.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Will Survive",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Sara Niemietz",
+      "has_synced": true,
+      "path": "select/03_I_Will_Survive_Scott_Bradlee's_Postmodern_Jukebox_feat._Sara_Niemietz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Will Survive",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/04_I_Will_Survive_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Will Survive",
+      "artist": "The Puppini Sisters",
+      "has_synced": true,
+      "path": "select/05_I_Will_Survive_The_Puppini_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Will Survive - Live",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Sara Niemietz",
+      "has_synced": true,
+      "path": "select/06_I_Will_Survive_-_Live_Scott_Bradlee's_Postmodern_Jukebox_feat._Sara_Niemietz.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Will Survive (Live)",
+      "artist": "Scott Bradlee's Postmodern Jukebox Sara Niemietz",
+      "has_synced": true,
+      "path": "select/07_I_Will_Survive_(Live)_Scott_Bradlee's_Postmodern_Jukebox_Sara_Niemietz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Will Survive",
+      "artist": "Cheap Trick",
+      "has_synced": true,
+      "path": "select/08_I_Will_Survive_Cheap_Trick.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Will Survive (From \"Gladiator\" Original Soundtrack)",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/09_I_Will_Survive_(From__Gladiator__Original_Soundtrack)_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Will Survive (from “Gradiator” original soundtrack)",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/10_I_Will_Survive_(from_“Gradiator”_original_soundtrack)_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Will Survive",
+      "artist": "Sacred Rite",
+      "has_synced": false,
+      "path": "select/11_I_Will_Survive_Sacred_Rite.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Will Survive",
+      "artist": "Mötley Crüe",
+      "has_synced": false,
+      "path": "select/12_I_Will_Survive_Mötley_Crüe.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Will Survive",
+      "artist": "Axel Rudi Pell",
+      "has_synced": false,
+      "path": "select/13_I_Will_Survive_Axel_Rudi_Pell.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Will Survive (Album Version)",
+      "artist": "The Puppini Sisters",
+      "has_synced": true,
+      "path": "select/14_I_Will_Survive_(Album_Version)_The_Puppini_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Will Survive (1981 Re-recording)",
+      "artist": "Gloria Gaynor",
+      "has_synced": true,
+      "path": "select/15_I_Will_Survive_(1981_Re-recording)_Gloria_Gaynor.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Will Survive - Single Version",
+      "artist": "Gloria Gaynor",
+      "has_synced": true,
+      "path": "select/16_I_Will_Survive_-_Single_Version_Gloria_Gaynor.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Will Survive (Single Version)",
+      "artist": "Gloria Gaynor",
+      "has_synced": true,
+      "path": "select/17_I_Will_Survive_(Single_Version)_Gloria_Gaynor.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Will Survive",
+      "artist": "Gloria Gaynor",
+      "has_synced": false,
+      "path": "select/pl_01_I_Will_Survive_Gloria_Gaynor.txt"
+    }
+  ]
+}
